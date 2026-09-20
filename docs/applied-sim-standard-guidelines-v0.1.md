@@ -103,14 +103,14 @@ A practice **MAY** probe relationships, reuse, constraints, actors, or surroundi
 
 ## 10. Feedback
 
-### ASG-F1 — Feedback is a normal path
-Failure to establish a Semantic Boundary **MUST** be permitted to return the analysis to further Observation. Such feedback is a normal analytical path, not an exceptional failure.
+### ASG-F1 — Re-observation is a normal path
+An Applied practice **MUST** permit further Observation or re-observation when the current inquiry remains insufficient, changes, or exposes a relevant distinction. Returning to Observation is a normal analytical path, not an exceptional failure.
 
-### ASG-F2 — Missing-observation identification
-When practical, feedback from Undefined **SHOULD** identify what Observation is missing and what Probe could obtain it.
+### ASG-F2 — Direction without forced diagnosis
+Unknown, Undefined, Ambiguous, Conflicting, or other unresolved semantic states **MAY** be used to direct further Observation or Semantic Probes. An Applied practice **MUST NOT** require such a state to be reduced to a specific missing Observation, cause, or diagnostic explanation before further inquiry can proceed.
 
 ### ASG-F3 — Reassessment
-A Candidate Concept **SHOULD** be reassessed after new Observation is obtained rather than retaining Undefined by default.
+An Applied practice **SHOULD** permit prior Interpretations, Evaluations, Boundary Hypotheses, and semantic states to be reassessed when relevant new Observation or changed context becomes available.
 
 ## 11. Narrative Non-Completion
 
