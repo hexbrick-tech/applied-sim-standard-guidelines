@@ -9,6 +9,12 @@ The Applied SIM Standard Guidelines (ASG) define the semantic interface between 
 
 ASG does not prescribe a single analysis procedure, domain model, implementation, tool, or AI system. It specifies constraints that preserve Foundation semantics when they are applied in a concrete practice.
 
+### Responsibility
+
+ASG defines conformance constraints for Applied SIM practices. Its responsibility is to preserve the semantic distinctions and constraints established by SIM Foundation while allowing Applied practices to define domain-specific procedures, artifacts, roles, workflows, and implementations.
+
+ASG does not establish a canonical reasoning procedure, redefine Foundation concepts for operational convenience, or require an Applied practice to resolve semantic states beyond what its inquiry requires. Applied procedures may introduce stronger operational controls where useful, but those controls remain distinguishable from semantics inherited from Foundation.
+
 ## 2. Normative language
 
 The terms **MUST**, **MUST NOT**, **SHOULD**, **SHOULD NOT**, and **MAY** express normative requirements.
