@@ -65,10 +65,10 @@ An Evaluation **MUST NOT** be projected backward as an intrinsic property of an 
 ## 7. Unknown and Undefined
 
 ### ASG-U1 — Unknown
-A state **SHOULD** be treated as Unknown when the relevant Concept or Semantic Boundary is sufficiently established but a required fact, value, attribute, or relation is not known.
+An Applied practice **MUST** preserve Unknown as the state in which information required to determine meaning is not known. It **MUST NOT** narrow Unknown to a particular kind of missing fact, value, attribute, relation, Concept, or Semantic Boundary.
 
 ### ASG-U2 — Undefined
-A state **SHOULD** be treated as Undefined when the available Observation is insufficient to establish a stable Semantic Boundary for the Candidate Concept itself.
+An Applied practice **MUST** preserve Undefined as the state in which something is observed but cannot currently be placed within an established semantic structure. It **MUST NOT** redefine Undefined as requiring any particular diagnosis, including failure to establish a stable Semantic Boundary for a Candidate Concept.
 
 ### ASG-U3 — Separation
 An Applied practice **MUST NOT** use Undefined as a generic category for missing information.
