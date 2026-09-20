@@ -45,8 +45,8 @@ A conclusion inferred from Observation **MUST** be represented as Interpretation
 
 ## 5. Interpretation Discipline
 
-### ASG-I1 — Traceability
-An Interpretation **MUST** remain traceable to the Observation or Observations from which it was derived.
+### ASG-I1 — Interpretation observability
+When Interpretation adds meaning beyond what was directly observed, an Applied practice **MUST** preserve enough distinction to identify that added meaning as Interpretation rather than Observation. This requirement does not prescribe a particular provenance structure or reasoning sequence.
 
 ### ASG-I2 — No backward contamination
 An Interpretation **MUST NOT** be treated as if it had been directly observed.
@@ -56,8 +56,8 @@ An Applied practice **SHOULD** preserve the ability to challenge an Interpretati
 
 ## 6. Evaluation Discipline
 
-### ASG-E1 — Evaluation context
-An Evaluation **MUST** identify or preserve the context required to understand the judgment, including the relevant purpose, criteria, or perspective where applicable.
+### ASG-E1 — Evaluation basis
+An Evaluation **MUST** preserve enough of its relevant basis for the judgment to remain distinguishable from an intrinsic property of the subject, Observation, or Interpretation. That basis **MAY** include purpose, criteria, perspective, authority, or other context relevant to the Evaluation; no particular representation is required.
 
 ### ASG-E2 — No intrinsic projection
 An Evaluation **MUST NOT** be projected backward as an intrinsic property of an Observation or Interpretation.
