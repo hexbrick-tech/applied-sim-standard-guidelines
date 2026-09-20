@@ -78,14 +78,14 @@ Marking a Candidate Concept as Undefined **MUST NOT** erase or invalidate the un
 
 ## 8. Boundary Validation
 
-### ASG-B1 — Boundary before attribution
-An Applied practice **MUST NOT** assign downstream attributes, scope, implementation state, or other semantic properties to a Candidate Concept when the required Semantic Boundary has not been established.
+### ASG-B1 — Boundary authority
+An Applied practice **MUST NOT** treat a provisional, unstable, or merely assumed Semantic Boundary as established semantic authority. Downstream use **MAY** proceed when the inquiry permits it, provided the boundary's status remains observable.
 
-### ASG-B2 — Counter-hypothesis
-Before asserting Undefined, an Applied practice **SHOULD** test the counter-hypothesis that the Concept is already sufficiently distinguishable from other Concepts using the available Observation.
+### ASG-B2 — Placement before Undefined
+An Applied practice **SHOULD NOT** treat an observed element as Undefined without considering whether the available Observation already permits it to be placed within an established semantic structure. This consideration **MUST NOT** require a particular diagnostic or counter-hypothesis procedure.
 
-### ASG-B3 — Missing property is not missing boundary
-A missing property, relationship, exception rule, or detailed behavior **MUST NOT** alone be used as evidence that the Concept itself is Undefined.
+### ASG-B3 — Missing detail is not boundary failure
+A missing property, relationship, exception rule, or detailed behavior **MUST NOT** by itself be treated as evidence that a Semantic Boundary is absent or unstable.
 
 ## 9. Semantic Probes
 
