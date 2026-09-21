@@ -1,6 +1,6 @@
 # ASG v0.1 — Responsibility Review
 
-**Status:** Working review  
+**Status:** Completed review  
 **Target:** ASG v0.1 Draft  
 **Review basis:** ASG Responsibility + existing Foundation traceability mapping
 
@@ -17,7 +17,7 @@ The working classifications are:
 - **Applied-specific** — useful operational guidance, but better treated as an Applied method choice unless ASG explicitly intends to standardize that control.
 - **Governance** — belongs in ASG because it governs conformance itself rather than inheriting semantic content from Foundation.
 
-This review records decisions before changing normative requirement text.
+This review records decisions made before changing normative requirement text. The original classifications are preserved below as review provenance; see **Resolution** for their disposition in the current ASG draft.
 
 ## Requirement review
 
@@ -84,6 +84,13 @@ An Applied practice may proceed while Unknown, Undefined, Ambiguous, or Conflict
 
 ASG may intentionally standardize stronger operational controls, but it should do so explicitly. A useful Applied procedure must not silently become a Foundation definition or invariant.
 
-## Next action
+## Resolution
 
-Revise the **Reframe** group first, beginning with U1/U2 and the Boundary Validation / Feedback requirements that currently inherit the same narrowed model of Undefined. P3/P4 should then be evaluated for relocation or explicit labeling as optional Applied guidance.
+The review actions have been completed in the current ASG v0.1 draft.
+
+- **Reframe resolved:** I1, E1, U1, U2, B1, B2, B3, F1, and F2 were revised to preserve Foundation semantics without requiring a canonical reasoning sequence, a narrowed definition of Unknown or Undefined, or a mandatory diagnostic procedure.
+- **Applied-specific resolved:** P3 and P4 were removed from the normative ASG requirements. Their probe taxonomy remains suitable for Applied methods where useful, but is not standardized by ASG.
+- **Reference workflow removed:** the former reference reasoning pattern was removed because it encoded the earlier boundary-centric workflow and conflicted with the revised U/B/F requirements.
+- **Governance retained:** C1, C2, and C3 remain ASG governance requirements and are not presented as Foundation-native semantics.
+
+The classifications above remain unchanged because they record the state and reasoning that motivated these revisions rather than the status of the revised requirements.
