@@ -110,7 +110,7 @@ An Applied practice **SHOULD** permit prior Interpretations, Evaluations, Bounda
 Missing semantic content **MUST NOT** be filled solely because a completion is plausible, conventional, or consistent with general domain knowledge.
 
 ### ASG-N2 — Explicit inference
-When general knowledge or reasoning is intentionally used, its result **MUST** remain distinguishishable from Observation.
+When general knowledge or reasoning is intentionally used, its result **MUST** remain distinguishable from Observation.
 
 ## 12. AI-Assisted Practices
 
