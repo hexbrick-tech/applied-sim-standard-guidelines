@@ -27,8 +27,6 @@ Applied practices MUST preserve the semantics inherited from SIM Foundation rath
 
 This draft focuses on the application of Observation, Interpretation, Evaluation, Semantic Boundary, boundary stability, and resistance to narrative completion.
 
-Traceability from each normative requirement to SIM Foundation is intentionally subject to a subsequent Foundation consistency review.
-
 ## 4. Observation Integrity
 
 ### ASG-O1 — Evidence-bounded observation
@@ -112,12 +110,14 @@ An Applied practice **SHOULD** permit prior Interpretations, Evaluations, Bounda
 Missing semantic content **MUST NOT** be filled solely because a completion is plausible, conventional, or consistent with general domain knowledge.
 
 ### ASG-N2 — Explicit inference
-When general knowledge or reasoning is intentionally used, its result **MUST** remain distinguishable from Observation.
+When general knowledge or reasoning is intentionally used, its result **MUST** remain distinguishishable from Observation.
+
+## 12. AI-Assisted Practices
 
 ### ASG-N3 — AI assistance
 An AI-assisted Applied practice **MUST NOT** treat an AI system's ability to generate a plausible completion as evidence that the completion was observed.
 
-## 12. Conformance and Traceability
+## 13. Conformance and Traceability
 
 ### ASG-C1 — Version declaration
 A conforming Applied practice **MUST** identify the ASG version it targets.
@@ -130,7 +130,7 @@ ASG normative requirements **SHOULD** be traceable to supporting semantics or in
 
 Where a requirement cannot be supported by Foundation, it **MUST** be identified for Foundation consistency review rather than silently treated as Foundation semantics.
 
-## 13. v0.1 review targets
+## 14. v0.1 review targets
 
 Before promotion beyond Draft, this version should be reviewed in two directions:
 
