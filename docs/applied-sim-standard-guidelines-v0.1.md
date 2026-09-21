@@ -95,12 +95,6 @@ A Semantic Probe **SHOULD** seek additional observable facts rather than ask a h
 ### ASG-P2 — Narrative restraint
 A Semantic Probe **MUST NOT** introduce an unobserved model as though that model were already established.
 
-### ASG-P3 — Boundary probes
-When a Candidate Concept lacks a stable boundary, the practice **SHOULD** probe observable behavior that can reveal where the Concept begins, ends, differs from adjacent Concepts, or becomes complete.
-
-### ASG-P4 — Expansion probes
-A practice **MAY** probe relationships, reuse, constraints, actors, or surrounding context after or alongside boundary investigation, provided those probes do not silently establish the boundary they are intended to investigate.
-
 ## 10. Feedback
 
 ### ASG-F1 — Re-observation is a normal path
@@ -136,38 +130,7 @@ ASG normative requirements **SHOULD** be traceable to supporting semantics or in
 
 Where a requirement cannot be supported by Foundation, it **MUST** be identified for Foundation consistency review rather than silently treated as Foundation semantics.
 
-## 13. Reference reasoning pattern
-
-The following pattern is illustrative, not a mandatory workflow:
-
-```
-Observation
-    |
-    v
-Candidate Concept
-    |
-    v
-Boundary investigation
-    |
-    +-- sufficiently stable --> downstream use
-    |
-    +-- insufficient --------> Undefined
-                                  |
-                                  v
-                         identify missing Observation
-                                  |
-                                  v
-                            Semantic Probe
-                                  |
-                                  v
-                              Observation
-                                  |
-                                  +----> reassess boundary
-```
-
-Unknown follows a different path: the Concept is sufficiently established, while a required fact or property remains unknown.
-
-## 14. v0.1 review targets
+## 13. v0.1 review targets
 
 Before promotion beyond Draft, this version should be reviewed in two directions:
 
