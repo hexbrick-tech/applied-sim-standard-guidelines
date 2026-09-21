@@ -32,26 +32,26 @@ This review records decisions made before changing normative requirement text. T
 | I3 Contestability | **Preserve** | Preserves alternative explanations where Observation permits them without imposing a fixed procedure. |
 | E1 Evaluation context | **Reframe** | Evaluation basis must remain observable, but requiring a particular explicit context structure may over-prescribe representation. |
 | E2 No intrinsic projection | **Preserve** | Prevents Evaluation from silently becoming an intrinsic property of Observation or Interpretation. |
-| U1 Unknown | **Reframe** | Current wording narrows canonical Unknown by requiring an established Concept or Semantic Boundary. |
-| U2 Undefined | **Reframe** | Current wording incorrectly equates Undefined with insufficient Candidate Concept boundary. |
+| **U1 Unknown** | **Reframe** | Current wording narrows canonical Unknown by requiring an established Concept or Semantic Boundary. |
+| **U2 Undefined** | **Reframe** | Current wording incorrectly equates Undefined with insufficient Candidate Concept boundary. |
 | U3 Separation | **Preserve** | Prevents Undefined from collapsing into generic missing information. |
 | U4 Observation retention | **Preserve** | Preserves the Observation underlying an Undefined state. |
-| B1 Boundary before attribution | **Reframe** | The categorical prohibition on downstream attribution is stronger than Foundation; ASG should constrain silent semantic authority rather than require universal sequencing. |
-| B2 Counter-hypothesis | **Reframe** | Core discipline is derivable from Foundation, but the named counter-hypothesis procedure and “other Concepts” framing are ASG-specific and narrower than canonical Undefined. |
+| **B1 Boundary before attribution** | **Reframe** | The categorical prohibition on downstream attribution is stronger than Foundation; ASG should constrain silent semantic authority rather than require universal sequencing. |
+| **B2 Counter-hypothesis** | **Reframe** | Core discipline is derivable from Foundation, but the named counter-hypothesis procedure and “other Concepts” framing are ASG-specific and narrower than canonical Undefined. |
 | B3 Missing property is not missing boundary | **Reframe** | Useful safeguard, but should preserve canonical Unknown/Undefined distinctions without making Concept-boundary diagnosis the governing model. |
 | P1 Observation-seeking probes | **Preserve** | Constrains probes toward observability rather than confirmation. |
 | P2 Narrative restraint | **Preserve** | Prevents probes from silently manufacturing semantic structure. |
 | P3 Boundary probes | **Applied-specific** | Valid operational specialization of Semantic Probe, but ASG need not require this named diagnostic procedure. |
 | P4 Expansion probes | **Applied-specific** | Applied probe taxonomy and ordering choice, not a Foundation semantic constraint. |
 | F1 Feedback is a normal path | **Reframe** | Re-observation is canonical, but tying feedback specifically to failure to establish a Semantic Boundary narrows the general recurrent-observation principle. |
-| F2 Missing-observation identification | **Reframe** | Further Observation is supported, but requiring Undefined to be diagnosed into a missing Observation/Probe is stronger than Foundation. |
+| **F2 Missing-observation identification** | **Reframe** | Further Observation is supported, but requiring Undefined to be diagnosed into a missing Observation/Probe is stronger than Foundation. |
 | F3 Reassessment | **Preserve** | Prevents a prior semantic state from becoming permanent merely by inertia after new Observation. |
 | N1 No plausibility completion | **Preserve** | Directly preserves non-completion and semantic authority. |
 | N2 Explicit inference | **Preserve** | Keeps observer-added reasoning distinguishable from Observation. |
 | N3 AI assistance | **Preserve** | AI capability must not become evidence or semantic authority. |
 | C1 Version declaration | **Governance** | Necessary for versioned ASG conformance; not claimed as Foundation semantics. |
 | C2 Requirement mapping | **Governance** | Makes conformance inspectable without prescribing the Applied implementation. |
-| C3 Foundation provenance | **Governance** | Protects the Foundation/ASG boundary by making inherited vs ASG-added constraints observable. |
+| **C3 Foundation provenance** | **Governance** | Protects the Foundation/ASG boundary by making inherited vs ASG-added constraints observable. |
 
 ## Summary
 
